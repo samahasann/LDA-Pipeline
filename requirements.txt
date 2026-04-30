@@ -1,0 +1,4 @@
+pandas>=1.5
+scikit-learn>=1.2
+gensim>=4.0
+numpy>=1.20
